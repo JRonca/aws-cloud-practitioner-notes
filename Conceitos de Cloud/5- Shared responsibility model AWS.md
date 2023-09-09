@@ -6,7 +6,7 @@
 
 # Diagram
 
-![[Shared_Responsibility_Model.jpg]]
+![[../Diagrams/Shared_Responsibility_Model.jpg]]
 
 
 # Link da descrição da amazon:

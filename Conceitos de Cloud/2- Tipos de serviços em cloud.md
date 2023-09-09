@@ -8,7 +8,7 @@
 
 # Diagrama
 
-![[types-of-clouds.svg]]
+![[../Diagrams/types-of-clouds.svg]]
 
 # Exemplos
 
