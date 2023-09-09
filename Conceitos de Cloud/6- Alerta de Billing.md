@@ -1,0 +1,1 @@
+- após criar a conta da AWS deve inserir na mesma reports para que o valor do serviço seja informado caso se aproxime do valor desejado a ser gasto
